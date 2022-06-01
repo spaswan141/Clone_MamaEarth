@@ -31,7 +31,7 @@
 ### MamaeEarth Screenshot 👇
 
 
-<img alt="WP Reliable Cookie Bar logo" src="https://img.youtube.com/vi/pc58CoJEfYk/0.jpg" height="100" width="100" align="right">
+<img alt="front Page" src="https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png"align="right">
 
 ### Tech Stack
 
