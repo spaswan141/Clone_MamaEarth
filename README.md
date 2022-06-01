@@ -31,7 +31,7 @@
 ### MamaeEarth Screenshot 👇
 
 
-<img alt="front Page" src="https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png"align="right">
+<img alt="front Page" src="https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png" align="right"/>
 
 ### Tech Stack
 
