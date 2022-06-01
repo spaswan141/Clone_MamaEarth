@@ -30,13 +30,25 @@
 
 ### MamaeEarth Screenshot 👇
 
-
+ <h3>Home Page</h3>  
 <img alt="front Page" src="https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png" align="right"/>
 <br/>
 <br/>
 <br/>
-<img src="https://miro.medium.com/max/1400/1*_zjgw-ZYS1E4ueykOKIp-A.png />
 
+ <h3>Product Details</h3>  
+<img src="https://miro.medium.com/max/1400/1*_zjgw-ZYS1E4ueykOKIp-A.png />
+ <br/>
+  <br/>
+  <br/>
+  <h3>if the user clicks on the login button he/she will be directly redirected to the OTP page</h3>
+  <img src="https://miro.medium.com/max/812/1*pS7KUMrcNd3uTxWnDkoo2Q.jpeg" />
+                                                                          
+   <h3>Product Category</h3>                                                                    
+   <img src="https://miro.medium.com/max/1400/1*X3OFqt6EzfafCsyyQ0X9Ig.png"/>
+
+   <h3>Delivery Details</h3>
+ <img src="https://miro.medium.com/max/1400/1*nXYKH_SBtjfqLrlMd1XZLw.png"/>
 ### Tech Stack
 
 * #### HTML
