@@ -30,7 +30,7 @@
 
 ### MamaeEarth Screenshot 👇
 
-[(https://mamaearth.me/wp-content/uploads/2022/01/Desktop-2.jpg)]
+https://img.youtube.com/vi/pc58CoJEfYk/0.jpg
 
 
 ### Tech Stack
