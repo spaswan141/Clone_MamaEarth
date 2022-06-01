@@ -30,7 +30,7 @@
 
 ### MamaeEarth Screenshot 👇
 
-(https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png)
+[(https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png)]
 
 
 ### Tech Stack
