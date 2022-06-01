@@ -42,10 +42,10 @@
   <br/>
   <br/>
   <h3>if the user clicks on the login button he/she will be directly redirected to the OTP page</h3>
-  <img src="https://miro.medium.com/max/812/1*pS7KUMrcNd3uTxWnDkoo2Q.jpeg" />
+  <img src="https://miro.medium.com/max/812/1*pS7KUMrcNd3uTxWnDkoo2Q.jpeg" height="500px" />
                                                                           
    <h3>Product Category</h3>                                                                    
-   <img src="https://miro.medium.com/max/1400/1*X3OFqt6EzfafCsyyQ0X9Ig.png"/>
+   <img src="https://miro.medium.com/max/1400/1*X3OFqt6EzfafCsyyQ0X9Ig.png" height="500px"/>
 
    <h3>Delivery Details</h3>
  <img src="https://miro.medium.com/max/1400/1*nXYKH_SBtjfqLrlMd1XZLw.png"/>
