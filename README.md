@@ -32,6 +32,10 @@
 
 
 <img alt="front Page" src="https://miro.medium.com/max/1400/1*Se-ve1tgHsIgzcGLTZDA6A.png" align="right"/>
+<br/>
+<br/>
+<br/>
+<img src="https://miro.medium.com/max/1400/1*_zjgw-ZYS1E4ueykOKIp-A.png />
 
 ### Tech Stack
 
